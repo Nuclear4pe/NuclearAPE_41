@@ -1,0 +1,217 @@
+{
+	"className": "NuclearAPE40 545",
+	"selected": 0,
+	"primaryItems": [ {
+			"name": "MSFC_AK12MR",
+			"selected": 0,
+			"quantity": 0,
+			"attachments": [
+				"MSFC_Handguard_AK12MR",
+				"MSFC_AK_Zenito_Buttstock",
+				"ReflexOptic",
+				"AK_Suppressor"
+			],
+			"cargo": [],
+			"magazines": [Mag_AK74_30Rnd_Green]	
+		}
+	],
+	"secondaryItems": [
+	],
+	"utilities": [ {
+			"name": "MSFC_Beret_Red",
+			"selected": 0,
+			"quantity": 0,
+			"attachments": [],
+			"cargo": [],
+			"magazines": []
+			},
+			{	"name": "MSFC_Beret_Black"
+			},
+			{	"name": "MSFC_Beret_Blue"
+			},
+			{	"name": "MSFC_Tactical_Cap_Multicam"
+			},
+			{	"name": "MSFC_Tactical_Cap_Black"
+			},
+			{	"name": "BaseballCap_Black"
+			}
+	],
+	"generalItems": [ {
+			"name": "Mag_AK74_30Rnd_Green",
+			"selected": 0,
+			"quantity": 12,
+			"attachments": [],
+			"cargo": [],
+			"magazines": []
+			},
+			{
+			"name": "Mag_Glock_15Rnd",
+			"selected": 0,
+			"quantity": 2,
+			"attachments": [],
+			"cargo": [],
+			"magazines": []
+			},
+			{
+			"name": "Mag_AK74_30Rnd_Black",
+			"selected": 0,
+			"quantity": 2,
+			"attachments": [],
+			"cargo": [],
+			"magazines": []
+			},
+			{
+			"name": "mmg_nbc_pouch",
+			"selected": 0,
+			"quantity": 0,
+			"attachments": [ {
+				"name": "NBCHoodGray"
+				},
+				{
+				"name": "NBCJacketGray"
+				},
+				{
+				"name": "NBCPantsGray"
+				},
+				{
+				"name": "NBCBootsGray"
+				},
+				{
+				"name": "NBCGlovesGray"
+				},
+				{
+				"name": "AirborneMask"
+				},
+				{
+				"name": "GasMask_Filter"
+				}
+			],
+			"cargo": [],
+			"magazines": []
+			},
+			{
+			"name": "SmallProtectorCase",
+			"selected": 0,
+			"quantity": 0,
+			"attachments": [],
+			"cargo":[ {		
+				"name": "AmmoBox_545x39_20Rnd",
+				"quantity": 4
+				},
+				{	
+				"name": "AmmoBox_545x39Tracer_20Rnd",
+				"quantity": 4
+				}				
+			],
+			"magazines": []
+			},
+			{
+			"name": "WaterproofBag_Green",
+			"selected":0,
+			"quantity":0,
+			"attachments": [],
+			"cargo":[ {
+				"name": "MMG_combatshirt_multicam",
+				"quantity": 1,
+				},
+				{
+				"name": "LeatherSewingKit",
+				"quantity": 2,
+				},
+				{
+				"name": "SewingKit",
+				"quantity": 1,
+				},
+				{
+				"name": "Chemlight_Blue",
+				"quantity": 1,
+				},
+				{
+				"name": "Chemlight_Red",
+				"quantity": 1,
+				},
+				{
+				"name": "Chemlight_Green",
+				"quantity": 1,
+				},
+				{
+				"name": "Matchbox",
+				"quantity": 1,
+				},
+				{
+				"name": "BloodTestKit",
+				"quantity": 2,
+				},
+			],
+			"magazines": []
+			},
+			{
+			"name": "WaterproofBag_Green",
+			"selected":0,
+			"quantity":0,
+			"attachments": [],
+			"cargo":[ {
+				"name": "MMG_balaclava_multicam",
+				"quantity": 1,
+				},
+				{
+				"name": "mmg_combatpants_multicam",
+				"quantity": 1,
+				},
+			],
+			"magazines": []
+			},
+			{
+			"name": "MMG_camelback_multicam",
+			"selected":0,
+			"quantity":0,
+			"attachments": [{
+				"name": "MMG_Med_Pouch_multicam"
+				},
+				{
+				"name": "MMG_bottle_multicam"
+				},
+				{
+				"name": "PersonalRadio"
+				},
+				{
+				"name": "Chemlight_Green"
+				}
+			
+],
+			"cargo":[]
+			"magazines": []
+			},
+			{
+			"
+	"clothes": [ {
+			"top": "TShirt_Black",
+			"pants": "MSFC_G3Pants_Multicam",
+			"shoes": "mmg_boots_multicam",
+			"backpack": "AliceBag_Camo",
+			"vest": "msfc_jpc_vest_multicam",
+			"gloves": "mmg_tactical_gloves_multicam",
+			"belt": "mmg_falcon_b1_belt_multicam",
+			"hat": "msfc_mich2000_multicam",
+			"mask": "AirborneMask",
+			"vestAttachments": [
+				"msfc_pouches_magazine_green",
+				"msfc_pouches_magazine_green",
+				"msfc_pouches_one_multicam",
+				"msfc_pouches_one_multicam"
+			],
+			"backpackAttachments": [
+				"Chemlight_Red"
+			],
+			"beltAttachments": [
+			"mmg_carbine_red",
+			"mmg_sheath_multicam",
+			"mmg_tactical_pouch_multicam",
+			"mmg_bottle_multicam",
+			"mmg_holster_multicam",
+			"morphine",
+			"epinephrine"
+			]
+		}
+	]
+}
